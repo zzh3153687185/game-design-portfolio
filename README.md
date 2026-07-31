@@ -1,17 +1,21 @@
 ﻿# 求职作品（系统策划）
 
-| 作品 | 说明 | 链接 |
-|---|---|---|
-| 《灵域天空岛》系统策划作品集 | 沙盒自动化项目系统策划案例 | 见下方 GitHub 文件 |
-| 《星铁及方舟肉鸽拆解分析》 | 肉鸽玩法拆解与对比 | 见下方 GitHub 文件 |
-| 《星铁肉鸽改版》 | 改版策划案（金山文档） | https://www.kdocs.cn/l/cgK1cfMXxv6I |
+公开仓库：[zzh3153687185/game-design-portfolio](https://github.com/zzh3153687185/game-design-portfolio)
+
+| 作品 | 链接 |
+|---|---|
+| 《灵域天空岛》系统策划作品集 | https://github.com/zzh3153687185/game-design-portfolio/blob/master/作品集_灵域天空岛_系统策划案例.pdf |
+| 《星铁及方舟肉鸽拆解分析》 | https://github.com/zzh3153687185/game-design-portfolio/blob/master/星铁及方舟肉鸽拆解分析.pdf |
+| 《星铁肉鸽改版》 | https://www.kdocs.cn/l/cgK1cfMXxv6I |
 
 ## 文件
 
-- `作品集_灵域天空岛_系统策划案例.pdf`
+- `作品集_灵域天空岛_系统策划案例.pdf` — 投递主文件
 - `星铁及方舟肉鸽拆解分析.pdf`
-- 源稿：`作品集_灵域天空岛_系统策划案例.md`
+- `作品集_灵域天空岛_系统策划案例.md` — 作品集源稿
+- `assets/` — 文内配图
 
 ## 使用说明
 
-投递时优先使用 PDF；需要改内容时编辑同名 `.md` 后重新导出。
+1. 投递优先用 PDF 链接（上表）。
+2. 需要改内容时编辑同名 `.md`，再重新导出 PDF 并推送更新。
